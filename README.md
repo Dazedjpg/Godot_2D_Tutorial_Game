@@ -10,7 +10,8 @@ I'm still learning, so this is just an experimental project 😅
 - Still following the tutorials from Godot Docs  
 - Just for learning and experimenting
 
-**How to play:**  
-Run the exe file
-(control)
-Use arrow key to move
+---
+
+**How to play:**   
+1. Run the `.exe` file
+2. Press enter or click the start button to start the game, and you can control the character using **Arrow Keys**.
